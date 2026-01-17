@@ -1,0 +1,50 @@
+Button
+{
+  text-align:center;
+  height:78px;
+  width:100px;
+  border:none;
+  background-color: #04AA6D ;
+  color:White;
+  text-decoration:none;
+  border-radius:12px;
+}
+
+.Background
+{
+  background-color:white;
+  margin:25%;
+  text-align:center;
+}
+
+h3
+{
+  padding-top:10%;
+  text-align:center;
+  font-size: 25px;
+}
+
+hr
+{
+  height:0.9px;
+  background-color:black;
+}
+
+h2{
+  padding-Top:9%;
+  padding-bottom:4%;
+  Color:red;
+}
+
+p
+{
+  color:red;
+}
+
+pre
+{
+  text-align: right;
+  padding:4%;
+  color:red;
+}
+
